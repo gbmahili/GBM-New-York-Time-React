@@ -1,0 +1,26 @@
+{
+  "name": "gbm-new-york-time-react",
+  "version": "1.0.0",
+  "description": "This is an application used to search the New York Times database",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gbmahili/GBM-New-York-Time-React.git"
+  },
+  "keywords": [
+    "New",
+    "York",
+    "Times",
+    "News",
+    "Articles"
+  ],
+  "author": "Baraka Mahili",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/gbmahili/GBM-New-York-Time-React/issues"
+  },
+  "homepage": "https://github.com/gbmahili/GBM-New-York-Time-React#readme"
+}
